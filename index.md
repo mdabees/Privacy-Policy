@@ -201,6 +201,5 @@ You are advised to review this Privacy Policy periodically for any
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact
-            us: By email: su@ngu.edu.eg
+If you have any questions about this Privacy Policy, please contact us: By email: su@ngu.edu.eg
 
