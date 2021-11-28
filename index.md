@@ -1,6 +1,6 @@
 # Privacy Policy
 
-NGU Student Union ("us", "we", or "our") operates the NGU Student Union mobile application
+Dr Yasser's Kicthen ("us", "we", or "our") operates the Dr Yasser's Kicthen mobile application
             (hereinafter referred to as the "Service"). This page informs you of
             our policies regarding the collection, use, and disclosure of
             personal data when you use our Service and the choices you have
@@ -15,7 +15,7 @@ NGU Student Union ("us", "we", or "our") operates the NGU Student Union mobile a
 
 
 ### Service
-Service is the NGU Student Union mobile application operated by NGU Student Union.
+Service is the Dr Yasser's Kicthen mobile application operated by Dr Yasser's Kicthen.
 
 
 ### Personal Data
@@ -76,7 +76,7 @@ We use cookies and similar tracking technologies to track the
 ### Use of Data
 
    
-NGU Student Union uses the collected data for various purposes:
+Dr Yasser's Kicthen uses the collected data for various purposes:
 
 To provide and maintain the Service
 
@@ -109,7 +109,7 @@ If you are located outside Egypt and choose to provide information
 Your consent to this Privacy Policy followed by your submission of
             such information represents your agreement to that transfer.
 
-NGU Student Union will take all steps reasonably necessary to ensure that your
+Dr Yasser's Kicthen will take all steps reasonably necessary to ensure that your
             data is treated securely and in accordance with this Privacy Policy
             and no transfer of your Personal Data will take place to an
             organization or a country unless there are adequate controls in
@@ -118,12 +118,12 @@ NGU Student Union will take all steps reasonably necessary to ensure that your
 ## Disclosure Of Data
 ### Legal Requirements
  
-NGU Student Union may disclose your Personal Data in the good faith belief that
+Dr Yasser's Kicthen may disclose your Personal Data in the good faith belief that
             such action is necessary to:
 
 - To comply with a legal obligation</Text>
 
-- To protect and defend the rights or property of NGU Student Union
+- To protect and defend the rights or property of Dr Yasser's Kicthen
 
 - To prevent or investigate possible wrongdoing in connection with
             the Service
@@ -201,5 +201,5 @@ You are advised to review this Privacy Policy periodically for any
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us: By email: su@ngu.edu.eg
+If you have any questions about this Privacy Policy, please contact us: By email: moudak.app@gmail.com
 
